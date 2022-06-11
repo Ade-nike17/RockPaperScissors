@@ -1,7 +1,7 @@
-# RockPaperScissors
-Rock-Paper-Scissors is a simple two-player game where, at a signal, players make figures with their hands, representing a rock, a piece of paper, or a pair of scissors. The winner is determined according to a set of rules. You can find the official rules by watching this youTube video and on wikipedia.
+# Rock Paper Scissors
+Rock-Paper-Scissors is a simple two-player game where, at a signal, players make figures with their hands, representing a rock, a piece of paper, or a pair of scissors. The winner is determined according to a set of rules. You can find the official rules by [watching this youTube video](https://www.youtube.com/watch?v=ND4fd6yScBM) and on [wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors).
 
-A brief summary:
+# A brief summary:
 
 If the two players choose the same “character” it’s a tie, and the game repeats. 
 
@@ -15,7 +15,7 @@ One player will be controlled by the computer and the other player controlled by
 
 The inbuilt Python module random and its choice method was used.
 
-Instructions:
+# Project Description:
 
 The game is created in a Pyhton file called main.py. 
 
